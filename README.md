@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vanphongle
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Cybersecurity and Python
+- 📚 I’m a noob strying to Learn Cybersecurity and Coding.
 - 📫 Reach me at my email: vanp.le@outlook.com
 
 <!---
